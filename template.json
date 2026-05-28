@@ -1,0 +1,17 @@
+{
+    "Model1": {
+        "your_email": "your_email@outlook.fr",
+        "recipients": [
+            "recipient_email@outlook.fr"
+        ],
+        "subject": "Model1 template's subject",
+        "message": [
+            "Bonjour,",
+            "",
+            "ceci est le model 1"
+        ],
+        "number_of_days": 1,
+        "number_of_email_sent": 0,
+        "email_service": "outlook"
+    }
+}
