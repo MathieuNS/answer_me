@@ -28,7 +28,7 @@ Clone the repository and set up a virtual environment:
 
 ```bash
 git clone <repository-url>
-cd BNP_Email
+cd Aswer_Me
 
 python -m venv venv
 venv\Scripts\activate
@@ -92,7 +92,7 @@ Templates are stored in `template.json` as a dictionary keyed by template name:
 ## Project structure
 
 ```
-BNP_Email/
+Aswer_Me/
 ├── main.py          # send_email() — sends emails through Outlook
 ├── gui.py           # Tkinter interface and template management
 ├── template.json    # Saved templates
